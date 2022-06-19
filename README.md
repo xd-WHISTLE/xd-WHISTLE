@@ -1,4 +1,6 @@
-<h1 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=30&color=F7F7F7&lines=I+am;Bonjour+je+suis+;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E7%A7%81%E3%81%AF;Ol%C3%A1+eu;%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D1%82+%D0%BC%D0%BD%D0%B5)](https://git.io/typing-svg) I'm ABHAY TARAS  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30"> 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=30&color=F7F7F7&lines=I+am;Bonjour+je+suis+;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E7%A7%81%E3%81%AF;Ol%C3%A1+eu;%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D1%82+%D0%BC%D0%BD%D0%B5)](https://git.io/typing-svg)
+
+<h1 align="center">I'm ABHAY TARAS  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30"> 
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=964EF7&lines=Penetration+Tester;Cyber+Security+Professional;Network+Security+Specialist+;DevSec+Ops+;Security+Analyst)](https://git.io/typing-svg)
  
